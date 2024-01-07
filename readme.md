@@ -10,6 +10,7 @@ Follow these steps to set up and run the CRM application on your local machine.
 First, create a virtual environment to isolate your project's dependencies:
 
 python -m venv virt
+
 virt\Scripts\activate
 
 ## 2. Install Dependencies
